@@ -1,2 +1,2 @@
-﻿start-process powershell -verb runas;`
+start-process powershell -verb runas;`
 taskkill /F /IM explorer.exe;
